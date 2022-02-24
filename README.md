@@ -1,7 +1,7 @@
 ![Mini pokédex](mp.gif)
 
 # Mini pokédex
-Exercicio feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando HTML, Sass e React no módulo de front-end.
+Exercicio feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando HTML, Sass, Bootstrap e React no módulo de front-end.
 
 ## Direitos autorais
 
